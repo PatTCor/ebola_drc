@@ -18,3 +18,7 @@
 6. 20180914, 20180915, 20180917: no vaccination numbers reported.
 7. 20181012: number of suspected cases under investigation not reported.
 8. 20181111: probable and confirmed cases 'cleaned up'; as a result, there may be jumps in the number of confirmed/probable cases, and in the number of deaths in each health zone.
+9. 20190107 total vaccines was reported 58866, but was corrected to be 56866 the next report. This WAS corrected in the data 
+10. 20190201: Vaccine report for Beni was missreported as 24435. This was clarified the next report as 20435. This WAS corrected in the data
+20190218: The case reported in Bunia was reclassified to be in Rwampara instead. "Bunia" has ceased to have any data reported since while "Rwampara(Bunia)" has data since this date. This data is labeled under health zone "Rwampara."
+11. There were a few reports in which the total vaccines reported did not equal the sum of the vaccines for each health zone in the report. The actual caculated total vaccines from each health zone is what was used in this data. 
