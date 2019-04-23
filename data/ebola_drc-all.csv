@@ -5777,6 +5777,7 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20190226,North-Kivu,Rutshuru,,,,,,,,590.0
 20190226,Tshopo,Kisangani,,,,,,,,13.0
 20190226,Haut-Uele,Watsa,,,,,,,,97.0
+20190226,all,all,65.0,814.0,229.0,229.0,553.0,488.0,,84094.0
 20190227,Ituri,Bunia,,,,,,,,1094.0
 20190227,Ituri,Lolwa,,,,,,,,333.0
 20190227,Ituri,Komanda,9.0,28.0,19.0,19.0,18.0,9.0,,2317.0
