@@ -8004,7 +8004,6 @@ date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_c
 20190501,Tshopo,Kisangani,,,,,,,,13.0,,,,,,,,,,
 20190501,Haut-Uele,Watsa,,,,,,,,97.0,,,,,,,,,,
 20190501,all,all,66.0,1444.0,286.0,286.0,994.0,928.0,,109844.0,,,,,,,,,,
-date,province,health_zone,total_p,total_c,new_s,total_s,total_d,total_dc,total_cure,total_vacc,,,,,,,,,,
 20190502,Ituri,Bunia,0.0,1.0,7.0,7.0,1.0,1.0,,1487.0,,,,,,,,,,
 20190502,Ituri,Lolwa,,,,,,,,333.0,,,,,,,,,,
 20190502,Ituri,Komanda,9.0,28.0,13.0,13.0,19.0,10.0,,2879.0,,,,,,,,,,
